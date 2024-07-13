@@ -30,4 +30,6 @@ This project is designed to generate social media post ideas by fetching data fr
     ``` sh
     python main.py
     ```
-    Make sure you're in the root directory of the folder 
+    Make sure you're in the root directory of the folder it 
+
+6. The fetched data can be found in the <industry_name>_headlines.json file in the data folder
